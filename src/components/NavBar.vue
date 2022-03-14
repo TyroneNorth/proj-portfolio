@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import ContactModal from './ContactModal.vue';
-
+import ContactForm from './ContactForm.vue';
 
 
 </script>

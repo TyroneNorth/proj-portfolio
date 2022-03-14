@@ -4,3 +4,5 @@ import './assets/css/global.css'
 import  '../node_modules/bootstrap/dist/css/bootstrap.min.css'
 
 createApp(App).mount('#app')
+
+import '../node_modules/bootstrap/dist/js/bootstrap.min.js'

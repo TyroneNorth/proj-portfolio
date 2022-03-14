@@ -34,17 +34,17 @@ const label = 'Submit';
     <form class="row g-3">
   <div class="col-md-4">
     <label for="validationDefault01" class="form-label">First name</label>
-    <input type="text" class="form-control" id="validationDefault01" value="Rosa" required>
+    <input type="text" class="form-control" id="validationDefault01" value="First" required>
   </div>
   <div class="col-md-4">
     <label for="validationDefault02" class="form-label">Last name</label>
-    <input type="text" class="form-control" id="validationDefault02" value="Parks" required>
+    <input type="text" class="form-control" id="validationDefault02" value="Last" required>
   </div>
   <div class="col-md-4">
     <label for="validationDefaultUsername" class="form-label" >Email</label>
     <div class="input-group">
       <span class="input-group-text" id="inputGroupPrepend2">@</span>
-      <input type="text" class="form-control" id="validationDefaultUsername" value="Rosa.Parks@underground.com"  aria-describedby="inputGroupPrepend2" required>
+      <input type="text" class="form-control" id="validationDefaultUsername" value="First.Last@espdomain.com"  aria-describedby="inputGroupPrepend2" required>
     </div>
   </div>
   <div >
