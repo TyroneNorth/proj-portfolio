@@ -63,7 +63,7 @@ const label = 'Submit';
     </div>
   </div>
   <div class="col-12">
-    <Button label='Send Email' class="std-btn" type="Submit"></Button>
+    <a href="mailto:northwill.solutions@gmail.com" label='Send Email' class="std-btn" type="Submit"></a>
 
   </div>
 </form>

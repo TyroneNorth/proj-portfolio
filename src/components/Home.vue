@@ -31,7 +31,7 @@ import Footer from './Footer.vue';
         
             Mega Fusion has ambitions to be the first commercially viable nuclear fusion energy solution.
             Technoologies:
-        <ul class="tech rounded">
+        <ul class="tech rounded ccard">
           <li>
             <a href="#https://developer.mozilla.org/en-US/docs/Web/HTML" class="list-group-item list-group-item-action active" aria-current="true">
             HTML
@@ -65,7 +65,7 @@ import Footer from './Footer.vue';
         
             Mega Fusion has ambitions to be the first commercially viable nuclear fusion energy solution.
             Technoologies:
-        <ul class="tech rounded">
+        <ul class="tech rounded ccard">
           <li>
             <a href="#https://developer.mozilla.org/en-US/docs/Web/HTML" class="list-group-item list-group-item-action active" aria-current="true">
             HTML
@@ -102,7 +102,7 @@ import Footer from './Footer.vue';
         
             Mega Fusion has ambitions to be the first commercially viable nuclear fusion energy solution.
             Technoologies:
-        <ul class="tech rounded">
+        <ul class="tech rounded ccard">
           <li>
             <a href="#https://developer.mozilla.org/en-US/docs/Web/HTML" class="list-group-item list-group-item-action active" aria-current="true">
             HTML
