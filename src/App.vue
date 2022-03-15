@@ -17,7 +17,10 @@ import Home from './components/Home.vue';
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
+<<<<<<< Updated upstream
   color: #2c3e50;
+=======
+>>>>>>> Stashed changes
   margin-top: 60px;
 }
 </style>
