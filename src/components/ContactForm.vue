@@ -49,7 +49,7 @@ const label = 'Submit';
   </div>
   <div >
   <div class="col">
-    <textarea Send me an email class="form-control" aria-label="With textarea"></textarea>
+    <textarea class="form-control" aria-label="With textarea"></textarea>
   </div>
   
   </div>
