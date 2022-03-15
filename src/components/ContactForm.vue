@@ -34,17 +34,17 @@ const label = 'Submit';
     <form class="row g-3">
   <div class="col-md-4">
     <label for="validationDefault01" class="form-label">First name</label>
-    <input type="text" class="form-control" id="validationDefault01" value="First" required>
+    <input type="text" class="form-control" id="validationDefault01" value="Tyrone" required>
   </div>
   <div class="col-md-4">
     <label for="validationDefault02" class="form-label">Last name</label>
-    <input type="text" class="form-control" id="validationDefault02" value="Last" required>
+    <input type="text" class="form-control" id="validationDefault02" value="North" required>
   </div>
   <div class="col-md-4">
     <label for="validationDefaultUsername" class="form-label" >Email</label>
     <div class="input-group">
       <span class="input-group-text" id="inputGroupPrepend2">@</span>
-      <input type="text" class="form-control" id="validationDefaultUsername" value="First.Last@espdomain.com"  aria-describedby="inputGroupPrepend2" required>
+      <input type="text" class="form-control" id="validationDefaultUsername" value="Northwill.solutions@gmail.com"  aria-describedby="inputGroupPrepend2" required>
     </div>
   </div>
   <div >
@@ -63,7 +63,7 @@ const label = 'Submit';
     </div>
   </div>
   <div class="col-12">
-    <a href="mailto:northwill.solutions@gmail.com" label='Send Email' class="std-btn" type="Submit"></a>
+    <a href="mailto:northwill.solutions@gmail.com" label='Send Email' class="std-btn" type="Submit">Demo Send Email</a>
 
   </div>
 </form>

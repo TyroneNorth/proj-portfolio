@@ -33,19 +33,19 @@ import Footer from './Footer.vue';
             Technoologies:
         <ul class="tech rounded ccard">
           <li>
-            <a href="#https://developer.mozilla.org/en-US/docs/Web/HTML" class="list-group-item list-group-item-action active" aria-current="true">
+            <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/HTML" class="list-group-item list-group-item-action active" aria-current="true">
             HTML
             </a>
           </li>
-          <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" class="list-group-item list-group-item-action">CSS</a>
-          <a href="https://www.javascript.com/" class="list-group-item list-group-item-action">Javascript</a>
-          <a href="https://www.w3schools.com/w3css/defaulT.asp" class="list-group-item list-group-item-action">W3.CSS</a>
+          <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/CSS" class="list-group-item list-group-item-action">CSS</a>
+          <a target="_blank" href="https://www.javascript.com/" class="list-group-item list-group-item-action">Javascript</a>
+          <a target="_blank" href="https://www.w3schools.com/w3css/defaulT.asp" class="list-group-item list-group-item-action">W3.CSS</a>
   
           </ul>
           
         
-        <a class="outline-btn" href="#">See live</a>
-        <a class="ghost-btn" href="#">Source</a>
+        <a class="outline-btn" target="_blank" href="https://megafusion.vercel.app/">See live</a>
+        <a class="ghost-btn" target="_blank" href="https://github.com/TyroneNorth/Commerce">Source</a>
         </p>
       </div>
     </div>
@@ -63,23 +63,23 @@ import Footer from './Footer.vue';
           <!-- SIte Info-->
           <br />
         
-            Mega Fusion has ambitions to be the first commercially viable nuclear fusion energy solution.
+            Authentic Asian Cuisine at a price that doesn't compromise on quality.
             Technoologies:
         <ul class="tech rounded ccard">
           <li>
-            <a href="#https://developer.mozilla.org/en-US/docs/Web/HTML" class="list-group-item list-group-item-action active" aria-current="true">
+            <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/HTML" class="list-group-item list-group-item-action active" aria-current="true">
             HTML
             </a>
           </li>
-          <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" class="list-group-item list-group-item-action">CSS</a>
-          <a href="https://www.javascript.com/" class="list-group-item list-group-item-action">Javascript</a>
+          <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/CSS" class="list-group-item list-group-item-action">CSS</a>
+          <a target="_blank" href="https://www.javascript.com/" class="list-group-item list-group-item-action">Javascript</a>
           
   
           </ul>
           
         
-        <a class="outline-btn" href="#">See live</a>
-        <a class="ghost-btn" href="#">Source</a>
+        <a class="outline-btn" target="_blank" href="https://rice-n-rolls.vercel.app/index.html">See live</a>
+        <a class="ghost-btn" target="_blank" href="https://github.com/TyroneNorth/RiceNRolls">Source</a>
         
         </p>
        
@@ -104,19 +104,19 @@ import Footer from './Footer.vue';
             Technoologies:
         <ul class="tech rounded ccard">
           <li>
-            <a href="#https://developer.mozilla.org/en-US/docs/Web/HTML" class="list-group-item list-group-item-action active" aria-current="true">
+            <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/HTML" class="list-group-item list-group-item-action active" aria-current="true">
             HTML
             </a>
           </li>
-          <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" class="list-group-item list-group-item-action">CSS</a>
-          <a href="https://www.javascript.com/" class="list-group-item list-group-item-action">Javascript</a>
-          <a href="https://getbootstrap.com/" class="list-group-item list-group-item-action">Bootstrap</a>
+          <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/CSS" class="list-group-item list-group-item-action">CSS</a>
+          <a target="_blank" href="https://www.javascript.com/" class="list-group-item list-group-item-action">Javascript</a>
+          <a target="_blank" href="https://getbootstrap.com/" class="list-group-item list-group-item-action">Bootstrap</a>
   
           </ul>
           
         
-        <a class="outline-btn" href="#">See live</a>
-        <a class="ghost-btn" href="#">Source</a>
+        <a class="outline-btn" target="_blank" href="https://engsolutions.vercel.app/">See live</a>
+        <a class="ghost-btn" target="_blank" href="https://github.com/TyroneNorth/Solutions">Source</a>
         
         </p>
         
