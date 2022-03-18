@@ -51,6 +51,42 @@ import Footer from './Footer.vue';
     </div>
     <div class="border-bottom"></div>
 
+     <div id="eng" class="row">
+      <div class="col-sm-12 col-lg-9  ccard">
+        <img src="../assets/images/consult.png" alt="Engineering Consulting" class="img-fluid" />
+      </div>
+      <div class="col-sm-12 col-lg-3">
+        <h1 class="text-center">Engineering Consulting</h1>
+        <p class="text-center">
+          <span>World Class contractors</span>
+          <!-- SIte Info-->
+          <br />
+        
+            We provide your business with the best insight, tools, and experts to get the job done right...the first time!
+            Technoologies:
+        <ul class="tech rounded ccard">
+          <li>
+            <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/HTML" class="list-group-item list-group-item-action active" aria-current="true">
+            HTML
+            </a>
+          </li>
+          <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/CSS" class="list-group-item list-group-item-action">CSS</a>
+          <a target="_blank" href="https://www.javascript.com/" class="list-group-item list-group-item-action">Javascript</a>
+          <a target="_blank" href="https://getbootstrap.com/" class="list-group-item list-group-item-action">Bootstrap</a>
+  
+          </ul>
+          
+        
+        <a class="outline-btn" target="_blank" href="https://engsolutions.vercel.app/">See live</a>
+        <a class="ghost-btn" target="_blank" href="https://github.com/TyroneNorth/Solutions">Source</a>
+        
+        </p>
+        
+      </div>
+    </div>
+
+    <div class="border-bottom"></div>
+
     <div id="rice" class="row">
      <div class="col-sm-12 col-lg-9  ccard">
         <img src="../assets/images/riceroll.png" alt="Mega Fusion" class="img-fluid" />
@@ -87,41 +123,7 @@ import Footer from './Footer.vue';
      
     </div>
 
-    <div class="border-bottom"></div>
-
-    <div id="eng" class="row">
-      <div class="col-sm-12 col-lg-9  ccard">
-        <img src="../assets/images/consult.png" alt="Mega Fusion" class="img-fluid" />
-      </div>
-      <div class="col-sm-12 col-lg-3">
-        <h1 class="text-center">Engineering Consulting</h1>
-        <p class="text-center">
-          <span>World Class contractors</span>
-          <!-- SIte Info-->
-          <br />
-        
-            Mega Fusion has ambitions to be the first commercially viable nuclear fusion energy solution.
-            Technoologies:
-        <ul class="tech rounded ccard">
-          <li>
-            <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/HTML" class="list-group-item list-group-item-action active" aria-current="true">
-            HTML
-            </a>
-          </li>
-          <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/CSS" class="list-group-item list-group-item-action">CSS</a>
-          <a target="_blank" href="https://www.javascript.com/" class="list-group-item list-group-item-action">Javascript</a>
-          <a target="_blank" href="https://getbootstrap.com/" class="list-group-item list-group-item-action">Bootstrap</a>
-  
-          </ul>
-          
-        
-        <a class="outline-btn" target="_blank" href="https://engsolutions.vercel.app/">See live</a>
-        <a class="ghost-btn" target="_blank" href="https://github.com/TyroneNorth/Solutions">Source</a>
-        
-        </p>
-        
-      </div>
-    </div>
+   
 
     
 

@@ -1,10 +1,11 @@
 <script setup lang="ts">
-import Button from './Button.vue';
+import { ref } from 'vue';
 
-// Setup Pinia Store
+const text = ref('');
 
 
-// Example starter JavaScript for disabling form submissions if there are invalid fields
+
+//JavaScript for disabling form submissions if there are invalid fields
 (function () {
   'use strict'
 
@@ -49,21 +50,14 @@ const label = 'Submit';
   </div>
   <div >
   <div class="col">
-    <textarea class="form-control" aria-label="With textarea"></textarea>
+    <textarea v-model="text" body="{{text}}" class="form-control" aria-label="With textarea"></textarea>
   </div>
   
   </div>
   
+  
   <div class="col-12">
-    <div class="form-check">
-      <input class="form-check-input" type="checkbox" value="" id="invalidCheck2" required>d
-      <label class="form-check-label text-black" for="invalidCheck2">
-        Agree to terms and conditions
-      </label>
-    </div>
-  </div>
-  <div class="col-12">
-    <a href="mailto:northwill.solutions@gmail.com" label='Send Email' class="std-btn" type="Submit">Demo Send Email</a>
+    <a href="mailto:northwill.solutions@gmail.com" label='Send Email' class="std-btn" type="Submit"> Send Email</a>
 
   </div>
 </form>
