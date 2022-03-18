@@ -231,7 +231,7 @@ p {
 
 
 .buzz-word::before {
-  content: "Welcome To";
+  content: "";
   background-color: transparent;
   color: var(--text-theme-light);
   opacity: 1;

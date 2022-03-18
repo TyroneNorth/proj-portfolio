@@ -3,6 +3,9 @@ import { ref } from 'vue';
 
 const text = ref('');
 
+function onInput(e: any) {
+  text.value = e.target.value;
+}
 
 
 //JavaScript for disabling form submissions if there are invalid fields
@@ -57,7 +60,10 @@ const label = 'Submit';
   
   
   <div class="col-12">
-    <a href="mailto:northwill.solutions@gmail.com" label='Send Email' class="std-btn" type="Submit"> Send Email</a>
+   
+  </div>
+  <div class="col-12">
+    <a href="mailto:northwill.solutions@gmail.com" label='Send Email' class="std-btn" type="Submit" body="{{text}}">Send Email</a>
 
   </div>
 </form>
