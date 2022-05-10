@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import ContactModal from './ContactModal.vue';
-import ContactForm from './ContactForm.vue';
+import ResumeModal from './ResumeModal.vue';
 
 
 </script>
@@ -74,6 +74,9 @@ import ContactForm from './ContactForm.vue';
               data-bs-target="#exampleModal"
             >Contact</a>
           </li>
+           <li class="nav-item">
+            
+          </li>
           <li class="nav-item dropdown">
             <a
               class="nav-link dropdown-toggle dropdown-toggle-split hover-theme nav-pills rounded"
@@ -84,6 +87,18 @@ import ContactForm from './ContactForm.vue';
               aria-expanded="false"
             >Work</a>
             <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+              <li>
+                <a class="dropdown-item" href="#avadaka">Avadaka</a>
+              </li>
+              <li>
+                <hr class="dropdown-divider" />
+              </li>
+              <li>
+                <a class="dropdown-item" href="#task_away">Task Away</a>
+              </li>
+              <li>
+                <hr class="dropdown-divider" />
+              </li>
               <li>
                 <a class="dropdown-item" href="#mega">Mega Fusion</a>
               </li>
@@ -101,13 +116,41 @@ import ContactForm from './ContactForm.vue';
               </li>
             </ul>
           </li>
+          <li class="nav-item dropdown">
+            <a
+              class="nav-link dropdown-toggle dropdown-toggle-split hover-theme nav-pills rounded"
+              href="#"
+              id="navbarDropdown"
+              role="button"
+              data-bs-toggle="dropdown"
+              aria-expanded="false"
+            >Resume</a>
+            <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+              
+              <li>
+                <a class="dropdown-item" target="_blank" href="https://docs.google.com/document/d/1UsvWnPPZFw2hCbHpkth04fvY_rFbgK3Y/edit?usp=sharing&ouid=102004404820290006670&rtpof=true&sd=true">View @ Drive</a>
+              </li>
+                    <hr class="dropdown-divider" />
+              <li>
+                <a class="dropdown-item" target="_blank" href="https://www.github.com/tyronenorth">Github</a>
+              </li>
+
+              <hr class="dropdown-divider" />
+              <li>
+                <a class="dropdown-item" target="_blank" href="https://docs.google.com/document/d/1UsvWnPPZFw2hCbHpkth04fvY_rFbgK3Y/edit?usp=sharing&ouid=102004404820290006670&rtpof=true&sd=true">LinkedIn</a>
+              </li>
+              
+            </ul>
+          </li>
           
         </ul>
+
+
         
       </div>
     </div>
   </nav>
-
+  <ResumeModal />
   <ContactModal />
 </template>
 

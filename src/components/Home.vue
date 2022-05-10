@@ -16,8 +16,70 @@ import Footer from './Footer.vue';
 
 <template>
   <Waves />
+<div class="container">
+  <div id="avadaka"  class="row">
+      <div class="col-sm-12 col-lg-9 ccard">
+        <img src="../assets/images/avadaka.png" alt="Avadaka" class="img-fluid" />
+      </div>
+      <div class="col-sm-12 col-lg-3">
+        <h1 class="text-center">Avadaka Web Builder</h1>
+        <p class="text-center">
+          <span>Product Landing Pageg for popular web builder.</span>
+          <!-- SIte Info-->
+          <br />
+        
+           
+        <ul class="tech rounded ccard">
+          
+          <a target="_blank" href="https://vuejs.org/" class="list-group-item list-group-item-action active" aria-current="true">Vue 3</a>
+          <a target="_blank" href="https://vitejs.dev/" class="list-group-item list-group-item-action">Vite</a>
+          <a target="_blank" href="https://quasar.dev/" class="list-group-item list-group-item-action">Quasar</a>
+  
+          </ul>
+          
+        
+        <a class="outline-btn" target="_blank" href="https://avadaka.vercel.app/">See live</a>
+        <a class="ghost-btn" target="_blank" href="https://github.com/TyroneNorth/Avadaka">Source</a>
+        </p>
+      </div>
+    </div>
+    <div class="border-bottom"></div>
 
-  <div class="container">
+<div id="task_away"  class="row">
+      <div class="col-sm-12 col-lg-9 ccard">
+        <img src="../assets/images/task_away.png" alt="Task Away" class="img-fluid" />
+      </div>
+      <div class="col-sm-12 col-lg-3">
+        <h1 class="text-center">Task Away</h1>
+        <p class="text-center">
+          <span>Todo/Task List PWA </span>
+          <!-- SIte Info-->
+
+          A Full-Stack CRUD application with User Authenticatoin and Authorization Management.
+          <br />
+        <ul class="tech rounded ccard">
+          <li>
+            <a target="_blank" href="https://vuejs.org/" class="list-group-item list-group-item-action active" aria-current="true">
+            Vue 3
+            </a>
+          </li>
+          <a target="_blank" href="https://quasar.dev/" class="list-group-item list-group-item-action">Quasar</a>
+          <a target="_blank" href="https://vitejs.dev/" class="list-group-item list-group-item-action">Vite</a>
+          <a target="_blank" href="https://supabase.com/" class="list-group-item list-group-item-action">Supabase</a>
+          <a target="_blank" href="https://www.postgresql.org/" class="list-group-item list-group-item-action">PostGresSQL</a>
+          <a target="_blank" href="https://www.typescriptlang.org/" class="list-group-item list-group-item-action">Typescript</a>
+  
+          </ul>
+          
+        
+        <a class="outline-btn" target="_blank" href="https://task-away-pwa.vercel.app/">See live</a>
+        <a class="ghost-btn" target="_blank" href="https://github.com/TyroneNorth/Task-Away">Source</a>
+        </p>
+      </div>
+    </div>
+    <div class="border-bottom"></div>
+
+  
     <div id="mega"  class="row">
       <div class="col-sm-12 col-lg-9 ccard">
         <img src="../assets/images/mega_fusion.png" alt="Mega Fusion" class="img-fluid" />
@@ -153,7 +215,6 @@ import Footer from './Footer.vue';
         font-size: small;
     }
 }
-
 
 
 .tech {
