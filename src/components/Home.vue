@@ -24,7 +24,7 @@ import Footer from './Footer.vue';
       <div class="col-sm-12 col-lg-3">
         <h1 class="text-center">Avadaka Web Builder</h1>
         <p class="text-center">
-          <span>Product Landing Pageg for popular web builder.</span>
+          <span>Product Landing Page for popular web builder.</span>
           <!-- SIte Info-->
           <br />
         
@@ -55,7 +55,7 @@ import Footer from './Footer.vue';
           <span>Todo/Task List PWA </span>
           <!-- SIte Info-->
 
-          A Full-Stack CRUD application with User Authenticatoin and Authorization Management.
+          A Full-Stack CRUD application with User Authentication and Authorization Management.
           <br />
         <ul class="tech rounded ccard">
           <li>
@@ -92,7 +92,7 @@ import Footer from './Footer.vue';
           <br />
         
             Mega Fusion has ambitions to be the first commercially viable nuclear fusion energy solution.
-            Technoologies:
+            Technologies:
         <ul class="tech rounded ccard">
           <li>
             <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/HTML" class="list-group-item list-group-item-action active" aria-current="true">
@@ -125,7 +125,7 @@ import Footer from './Footer.vue';
           <br />
         
             We provide your business with the best insight, tools, and experts to get the job done right...the first time!
-            Technoologies:
+            Technologies:
         <ul class="tech rounded ccard">
           <li>
             <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/HTML" class="list-group-item list-group-item-action active" aria-current="true">
@@ -162,7 +162,7 @@ import Footer from './Footer.vue';
           <br />
         
             Authentic Asian Cuisine at a price that doesn't compromise on quality.
-            Technoologies:
+            Technologies:
         <ul class="tech rounded ccard">
           <li>
             <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/HTML" class="list-group-item list-group-item-action active" aria-current="true">
