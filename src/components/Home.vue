@@ -47,33 +47,30 @@ import Footer from './Footer.vue';
 
 <div id="task_away"  class="row">
       <div class="col-sm-12 col-lg-9 ccard">
-        <img src="../assets/images/task_away.png" alt="Task Away" class="img-fluid" />
+        <img src="../assets/images/donezo.png" alt="Donezo" class="img-fluid" />
       </div>
       <div class="col-sm-12 col-lg-3">
-        <h1 class="text-center">Task Away</h1>
+        <h1 class="text-center">Donezo</h1>
         <p class="text-center">
-          <span>Todo/Task List PWA </span>
           <!-- SIte Info-->
 
-          A Full-Stack CRUD application with User Authentication and Authorization Management.
+          A Full-Stack Notes/Todo CRUD application with User Authentication and Authorization Management.
           <br />
         <ul class="tech rounded ccard">
           <li>
-            <a target="_blank" href="https://vuejs.org/" class="list-group-item list-group-item-action active" aria-current="true">
-            Vue 3
-            </a>
+            <a target="_blank" href="https://elixir-lang.org/" class="list-group-item list-group-item-action active">Elixir</a>
           </li>
-          <a target="_blank" href="https://quasar.dev/" class="list-group-item list-group-item-action">Quasar</a>
-          <a target="_blank" href="https://vitejs.dev/" class="list-group-item list-group-item-action">Vite</a>
-          <a target="_blank" href="https://supabase.com/" class="list-group-item list-group-item-action">Supabase</a>
-          <a target="_blank" href="https://www.postgresql.org/" class="list-group-item list-group-item-action">PostGresSQL</a>
-          <a target="_blank" href="https://www.typescriptlang.org/" class="list-group-item list-group-item-action">Typescript</a>
+          
+          <a target="_blank" href="https://www.phoenixframework.org/" class="list-group-item list-group-item-action">Phoenix</a>
+          
+          <a target="_blank" href="https://www.postgresql.org/" class="list-group-item list-group-item-action">Postgres</a>
+         
   
           </ul>
           
         
-        <a class="outline-btn" target="_blank" href="https://task-away-pwa.vercel.app/">See live</a>
-        <a class="ghost-btn" target="_blank" href="https://github.com/TyroneNorth/Task-Away">Source</a>
+        <a class="outline-btn" target="_blank" href="https://donezo-app.fly.dev/">See live</a>
+        <a class="ghost-btn" target="_blank" href="https://github.com/TyroneNorth/donezo">Source</a>
         </p>
       </div>
     </div>

@@ -94,7 +94,7 @@ import ResumeModal from './ResumeModal.vue';
                 <hr class="dropdown-divider" />
               </li>
               <li>
-                <a class="dropdown-item" href="#task_away">Task Away</a>
+                <a class="dropdown-item" href="#task_away">Donezo</a>
               </li>
               <li>
                 <hr class="dropdown-divider" />
